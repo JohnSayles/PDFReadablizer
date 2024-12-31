@@ -12,4 +12,4 @@ to make this program. They did all the hard work, so all credit to these amazing
 
 John Sayles ;)
 
-**PS**: This README.md formatting is most definitely bad practice, but I don't expect this to be taken a serious project either haha. If I add more to this in the future, I will probably make everything look more professional. Thanks for reading.
+**PS**: This README.md formatting is most definitely bad practice, but I don't expect this to be taken as a serious project either haha. If I add more to this in the future, I will probably make everything look more professional. Thanks for reading.
