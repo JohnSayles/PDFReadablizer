@@ -17,7 +17,7 @@ old_pdf_file = PdfReader(pdf_file_name + ".pdf")
 new_pdf_file = FPDF()
 
 # Sets the font as arial
-# Makes all unicdoe characters recognizable
+# Makes all unicode characters recognizable
 new_pdf_file.add_font('sysfont', '', "arial.ttf", uni=True)
 new_pdf_file.set_font("sysfont",size = 12)
 
