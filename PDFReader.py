@@ -11,7 +11,7 @@ from fpdf import FPDF
 from tqdm import tqdm
 
 # Write the name of your pdf file here. Make sure to place your file in the same directory as PDFReader.py
-pdf_file_name = "Scale"
+pdf_file_name = ""
 
 old_pdf_file = PdfReader(pdf_file_name + ".pdf")
 new_pdf_file = FPDF()
