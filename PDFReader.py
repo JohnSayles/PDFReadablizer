@@ -28,8 +28,3 @@ for p in tqdm(range(old_pdf_file.get_num_pages()), desc="Processing Pages"):
     new_pdf_file.add_page()
     new_pdf_file.multi_cell(200, 8, txt=page_text, align="J")
 new_pdf_file.output(pdf_file_name + "Readable" + ".pdf")
-    
-    
-    
-    
-    
