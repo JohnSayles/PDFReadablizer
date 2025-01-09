@@ -1,6 +1,6 @@
 # PDFReadablizer
 
-This is a very simple program that, when given a .pdf file, a new .pdf file with the same text content will be created in arial 12pt text. I use this alot with pdf scans that are hard to read, so I thought I would upload it here if anyone else might find it to be useful. It doesn't always translate files correctly, so be careful.
+This is a very simple applet that, when given a .pdf file, a new .pdf file with the same text content will be created in arial 12pt text. I use this alot with pdf scans that are hard to read, so I thought I would upload it here if anyone else might find it to be useful. It doesn't always translate files correctly, so be careful.
 
 I used:
 
